@@ -1,6 +1,6 @@
 bl_info = {
     "name": "TKLx",
-    "author": "Your Name",
+    "author": "Ernst Renner",
     "version": (0, 3, 0),
     "blender": (3, 0, 0),
     "location": "View3D > Sidebar > TKLx",
